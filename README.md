@@ -138,4 +138,4 @@ A group of eye conditions that damage the optic nerve, often due to high intraoc
 ## 👨‍💻 Author
 
 Parnava Ghosh – B.Sc. (Hons) Student, Presidency University  
-Developed as part of a research internship under CROW Club, with a vision to improve retinal screening in low-resource regions.
+Developed as part of a research internship under IDEAS-TIH ISI, with a vision to improve retinal screening in low-resource regions.
